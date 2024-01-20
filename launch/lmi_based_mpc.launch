@@ -1,0 +1,5 @@
+<launch>
+   
+   <node name="lmi_based_mpc_node" pkg="lmi_based_lateral_mpc" type="lmi_cvxpy_node.py" output="screen" />
+
+</launch>
